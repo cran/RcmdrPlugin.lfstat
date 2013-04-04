@@ -1,0 +1,15 @@
+2bd26cf7dd2015cfee0258b81a43abce *DESCRIPTION
+4fbae3b01d668fd1371af10a0ce45e1e *NAMESPACE
+8cfc3018d280174e94e3b0a1a76481c0 *R/RcmdrPlugin.lfstat.R
+acd7bda16d454b193a05f249979cdff6 *R/active.R
+ea88b0c0dfeda31992d4e4bd0c1f80e2 *R/extreme.R
+d32f9cb77d670029008d998e1dbaeee9 *R/graphics.R
+c8245487e9e426f0de7d66016c453eea *R/indices.R
+54c4e26d611b51edc9ff6587774b7e81 *R/multi.R
+9b3c08f270cd3711d4617e2ab380d290 *R/na.R
+cc59d5e50c2858d5aedcfe5eed09f34e *R/options.R
+cd12933a6b3db0948f3e1642b6c6cc97 *R/streamdef.R
+51f1174b4a63b0e7e34cfa6fe8a58484 *inst/doc/short_intro_RcmdrPlugin_lfstat.pdf
+04b0e9782635f79e1850275da0ed3db1 *inst/etc/menus.txt
+701030c283468807549129fdf775a984 *man/RcmdrPlugin.TeachingDemos-internal.Rd
+6c2113529f988555968e55defc9eb353 *man/RcmdrPlugin.lfstat-package.Rd
